@@ -78,5 +78,10 @@
       "name":"배꼽시계",
       "images":"https://github.com/jnuro/database/raw/master/krfood/beggopclock.png",
       "tel":"064-724-4656"
+    },
+    {
+      "name":"매력식당",
+      "images":"https://github.com/jnuro/database/raw/master/krfood/maeryok.jpg",
+      "tel":"064-722-4593"
     }
-  ]
+]
