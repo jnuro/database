@@ -1,4 +1,4 @@
- [
+{ "license": [
         {
             "name": "@babel/core",
             "license": "MIT License",
@@ -114,4 +114,4 @@
             "license": "MIT License",
             "agreement":"https://github.com/localz/react-native-pinch#readme"
         }
- ]
+ ]}
