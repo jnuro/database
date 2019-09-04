@@ -1,4 +1,3 @@
-let json ={
     "license": [
         {
             "name": "@babel/core",
