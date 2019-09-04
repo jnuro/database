@@ -115,6 +115,3 @@
             "agreement":`https://github.com/localz/react-native-pinch#readme`
         },
     ]
-}
-
-export default json;
